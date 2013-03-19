@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="jp.sourceforge.pdt_tools.jsbeautifier.feature"
+      label="JavaScript Formatter"
+      version="0.6.0.v20130319"
+      provider-name="sourceforge.jp/users/atlanto">
+
+   <description>
+      JavaScript Formatter
+A porting of JS Beautifier (https://github.com/einars/js-beautify)
+based on beautify.js Feb 28, 2013 (commit 3fd3b379a2905b05265184cf17460d32ed36c78a)
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="jp.sourceforge.pdt_tools.jsbeautifier"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
